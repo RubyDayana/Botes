@@ -6,7 +6,7 @@
 package com.usa.boat.repository;
 
 import com.usa.boat.entity.Message;
-import com.usa.boat.interfaces.IMessage;
+import com.usa.boat.repository.crud.IMessage;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

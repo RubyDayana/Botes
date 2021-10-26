@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.usa.boat.interfaces;
+package com.usa.boat.repository.crud;
 
 import com.usa.boat.entity.Client;
 import org.springframework.data.repository.CrudRepository;

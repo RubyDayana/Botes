@@ -6,7 +6,7 @@
 package com.usa.boat.repository;
 
 import com.usa.boat.entity.Client;
-import com.usa.boat.interfaces.IClient;
+import com.usa.boat.repository.crud.IClient;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

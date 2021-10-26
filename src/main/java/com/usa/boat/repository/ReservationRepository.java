@@ -6,7 +6,7 @@
 package com.usa.boat.repository;
 
 import com.usa.boat.entity.Reservation;
-import com.usa.boat.interfaces.IReservation;
+import com.usa.boat.repository.crud.IReservation;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
